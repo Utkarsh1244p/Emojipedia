@@ -10,6 +10,12 @@ Welcome to the Emojipedia project repository! This project is an interactive web
 - CSS
 - JavaScript
 
+## Preview
+
+Here's a preview of the Emojipedia website:
+
+![Emojipedia Preview](emojipedia_preview.png)
+
 ## Installation
 
 To run the Emojipedia website locally, follow these steps:
