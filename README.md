@@ -40,6 +40,6 @@ To run the Emojipedia website locally, follow these steps:
    ```bash
    npm run dev
 
-5. **Open your browser and navigate to the provided local server URL (usually 'http://localhost:5173' by default or go to URL that is shown in terminal) to view the website.**
+5. **Open your browser and navigate to the provided local server URL (usually 'http://localhost:5173' by default) to view the website.**
 
   
